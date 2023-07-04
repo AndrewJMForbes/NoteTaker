@@ -14,20 +14,13 @@ app.use('/api',api);
 // get method for index route
 app.get('/',(req,res) =>
 res.sendFile(path.join(__dirname, './public/index.html')));
-console.log('WHELP')
 
 // get method for /notes
 app.get('/api/notes',(req,res) =>
 res.sendFile(path.join(__dirname, './public/notes.html')));
-console.log('api notes')
 
 // // the wildcard has to be last 
 app.get('/*',(req,res) =>
 res.sendFile(path.join(__dirname, './public/index.html')));
-console.log('get errthing')
-
-// // app.post('/api/notes', (req, res) =>{ 
-// // console.log(`${req.method} notes have been added`);
-// })
 
 app.listen(PORT, () => console.log(`App listening on port ${PORT}`));

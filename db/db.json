@@ -55,5 +55,15 @@
         "title": "hello ",
         "text": "byyyyyyyye",
         "id": "a52c5ae8-cdd5-4ce0-9ba0-3ebca4f8fab5"
+    },
+    {
+        "title": "bye",
+        "text": "ok bye",
+        "id": "b6380fa3-7197-4da6-8959-35e8688f052a"
+    },
+    {
+        "title": "Demo ",
+        "text": "this a demo of the note taking application",
+        "id": "5d6506c3-49d5-4665-af58-3d3eab5cc481"
     }
 ]

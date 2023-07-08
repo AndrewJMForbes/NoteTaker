@@ -48,11 +48,11 @@ I used a GitHub.com as my main repository database in order to save and re-edit 
 With these steps you should now be able to clone a repository, edit the contents, and save your changes to others can see and even edit your changes. 
 
 ## Screenshots of the webpage
-
+![notetakernotes](https://github.com/AndrewJMForbes/e-commerce_backend/assets/124540000/190caeab-fb9c-49dc-b31d-434f218d7877)
+![notetakermain](https://github.com/AndrewJMForbes/e-commerce_backend/assets/124540000/df337aef-2685-4875-a309-d58eb01b6481)
 
 ## References
 
-Site reference for the waving hand on my Contact page--https://codepen.io/jakejarvis/pen/pBZWZw 
 W3schools--https://www.w3schools.com/\
 Mozilla developer docs--https://developer.mozilla.org/en-US/
 One of my biggest references is Google just answering questions 
